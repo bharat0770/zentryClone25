@@ -1,0 +1,15 @@
+setup  : vite and tailwind
+config : add fonts (currler web,robert,etc; add colors )
+
+**hero 
+nested videos 
+gsap 
+from & to 
+clipPath
+
+**about 
+**animatin tile
+**story
+**navbar
+**story
+**contact & folder
