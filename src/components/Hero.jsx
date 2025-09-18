@@ -17,7 +17,8 @@ function Hero() {
     }
     
     const getVideoSrc = (index) => {
-        return `../public/videos/hero-${index}.mp4`;
+        // return `../public/videos/hero-${index}.mp4`;
+        return `videos/hero-${index}.mp4`
     }
 
     useGSAP(() => {
